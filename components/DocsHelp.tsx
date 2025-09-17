@@ -237,7 +237,7 @@ export function DocsHelp({
                             Let us know your Feedback
                           </span>
                           <span className='float-right text-[#7d8590] text-[14px] block'>
-                            Optional
+                            Required
                           </span>
                         </label>
                       </p>
