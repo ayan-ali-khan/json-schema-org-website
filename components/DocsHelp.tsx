@@ -246,6 +246,7 @@ export function DocsHelp({
                         name='feedback-comment'
                         id='feedback-comment'
                         data-test='feedback-form-input'
+                        required
                       />
                     </div>
 
